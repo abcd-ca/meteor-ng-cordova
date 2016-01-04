@@ -1,6 +1,6 @@
 Package.describe({
   name: 'netanelgilad:ng-cordova',
-  version: '0.1.13',
+  version: '0.1.14',
   // Brief, one-line summary of the package.
   summary: 'AngularJS Cordova wrappers for common Cordova plugins.',
   // URL to the Git repository containing the source code for this package.
